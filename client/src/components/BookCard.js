@@ -9,7 +9,7 @@ import { Link } from "react-router-dom";
 
 const BookCard = ({ book }) => {
   return (
-    <div className="column is-one-quarter">
+    <div className="column is-one-third">
       <div className="card">
         <div className="card-image">
           <figure className="image">
